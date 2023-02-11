@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", win ++ 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044666
+#EXTINF:0 type="stream" channelId="-1", Win ++ 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/294455
+#EXTINF:0 type="stream" channelId="-1", win +1
+http://45.233.169.25:8000/play/a02r
+#EXTINF:0 type="stream" channelId="-1", Win +2
+http://tv5full.xyz:25461/Ivan.marquez/IM.2022/87259
+#EXTINF:0 type="stream" channelId="-1", win +3
+http://200.41.79.165:8000/play/a0js
+#EXTINF:0 type="stream" channelId="-1", win +4
+http://8.242.187.233:5800/play/a0aq/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", win +5
+http://200.41.79.165:8000/play/a0js/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", win +6
+http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/14900
+#EXTINF:0 type="stream" channelId="-1", win +7
+http://200.110.169.237:8202/play/a04m
+#EXTINF:0 type="stream" channelId="-1", win +8
+http://bulltv.us:2999/darlin/darlin/267
+#EXTINF:0 type="stream" channelId="-1", win +9 
+http://8.242.187.233:5800/play/a0aq/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", win +10
+http://181.205.94.252:50000/0.ts
+#EXTINF:0 type="stream" channelId="-1", win +11
+http://201.219.223.101:46000/play/a044
+#EXTINF:0 type="stream" channelId="-1", win +12
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/25156
+#EXTINF:0 type="stream" channelId="-1", win +13*
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/252516
+#EXTINF:0 type="stream" channelId="-1", win +14
+http://51.222.43.170:8001/VIPD/GtNjnd2A5SkB/289740
+#EXTINF:0 type="stream" channelId="-1", win +15
+http://190.131.228.59:8000/play/a0e2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Win estable
+http://200.41.79.165:8000/play/a0js
